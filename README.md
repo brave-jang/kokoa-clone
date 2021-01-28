@@ -1,3 +1,3 @@
 # Kokoa Clone
 
-Css got so much better
+Create kokoa-clone with HTML and CSS
